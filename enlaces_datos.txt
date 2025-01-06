@@ -1,0 +1,2 @@
+https://www.kaggle.com/competitions/isic-2024-challenge/data?select=train-metadata.csv
+
